@@ -1,0 +1,18 @@
+$ mkdir House
+$ touch dorthy.txt toto.txt house.txt
+$ mkdir Oz
+$ touch GoodWitchofTheNorth.txt WickedWitchofTheEast.txt GoodWitchofTheSouth.txt WickedWithchofTheWest.txt
+$ rm WickedWitchofTheEast.txt
+$ mv ../dorthy.txt .
+
+$ touch scarecrow.txt
+$ touch tin man.txt
+$ touch cowardly lion.txt 
+$ mkdir Emerald City 
+$ mv ./scarecrow.txt tin man.txt cowardly lion.txt Emerald City 
+
+$ touch flying monkeys.txt
+$ rm WickedWithchofTheWest.txt
+$ echo "diploma" >> scarecrow.txt
+$ echo "heart" >> tin man.txt 
+$ echo "medal" >> cowardly lion.txt 
